@@ -42,5 +42,5 @@ with col1:
 with col2:
     st.header("Price Analysis")
     st.line_chart(hist['Close'])
-    
+
 
